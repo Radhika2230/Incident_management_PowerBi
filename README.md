@@ -29,17 +29,12 @@ The dashboard is designed around real-world business rules including SLA trackin
 ### Page 1 — Active Incidents Dashboard
 Focuses on currently open incidents with KPI cards, aging tables, incidents exceeding 30 days, and incidents not updated in 7+ days.
 
-![Page 1 - Active Incidents Dashboard](screenshots/page1_active_incidents.png)
-
 ### Page 2 — SLA Raw Data
 Sortable table of all active incidents ranked by SLA percentage with a bucketed bar chart showing SLA distribution across platforms.
 
-![Page 2 - SLA Raw Data](screenshots/page2_sla_raw_data.png)
 
 ### Page 3 — Incident Trend Analysis
 Line chart showing total incident volume and warranty incidents over time with drill-down hierarchy and platform/group slicers.
-
-![Page 3 - Incident Trend Analysis](screenshots/page3_trend_analysis.png)
 
 ---
 
